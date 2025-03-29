@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "403918040125",
+    "project_id": "myflowertree-customer",
+    "storage_bucket": "myflowertree-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403918040125:android:f012f6fbe5865153fbce54",
+        "android_client_info": {
+          "package_name": "mft.customer.customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403918040125-ldicnnene2ofij2s54rrpl9fkso9ptf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mft.customer.customer_app",
+            "certificate_hash": "261206fc2b198f380759a1271680fd8a42e401b6"
+          }
+        },
+        {
+          "client_id": "403918040125-87th501f8mhbkvoeh4h4eava1vb73lr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDasjCzS006kZMO389u2GbvDlKUSUkrujU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403918040125-87th501f8mhbkvoeh4h4eava1vb73lr0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403918040125-unibdc6u5c0d3uk0rcacfort7aoa2q85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mft.customer.customerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

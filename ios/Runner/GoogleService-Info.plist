@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>403918040125-unibdc6u5c0d3uk0rcacfort7aoa2q85.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.403918040125-unibdc6u5c0d3uk0rcacfort7aoa2q85</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>403918040125-ldicnnene2ofij2s54rrpl9fkso9ptf8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJX9GAFZIdYzMgb2kuG6m2s2dCiZbaY04</string>
+	<key>GCM_SENDER_ID</key>
+	<string>403918040125</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mft.customer.customerApp</string>
+	<key>PROJECT_ID</key>
+	<string>myflowertree-customer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myflowertree-customer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:403918040125:ios:595eed3829af7010fbce54</string>
+</dict>
+</plist>
